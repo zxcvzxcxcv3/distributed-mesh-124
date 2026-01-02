@@ -1,0 +1,1 @@
+const service_wntv = <T>(args: T): T => { return args; };
