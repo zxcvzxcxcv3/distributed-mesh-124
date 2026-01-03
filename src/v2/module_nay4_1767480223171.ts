@@ -1,0 +1,1 @@
+const util_nay4 = (d: any) => d;
