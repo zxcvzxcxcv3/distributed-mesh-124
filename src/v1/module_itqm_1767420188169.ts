@@ -1,0 +1,1 @@
+const util_itqm = (d: any) => d;
